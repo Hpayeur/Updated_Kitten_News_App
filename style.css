@@ -79,6 +79,26 @@ nav li a:hover {
 }
 .websites{
   text-align: center;
+ list-style-type:none;
+  margin: 0 auto;
+}
+  .websites h3 {
+    color:#be69b3;
+font-size: 1.5em;
+font-family: cursive;
+  }
+  .websites ul{
+    Font: size 1.1em;
+    font-family: cursive;
+    font-weight: light;
+    align-items: center;
+    list-style-type: none;
+  }
+  .websites li p{
+font-size: 1.1em;
+  }
+.websites a:hover{
+  text-decoration: none;
 }
 .cards {
   display: inline-block;
