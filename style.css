@@ -103,6 +103,9 @@ font-size: 1.1em;
   text-decoration: underline;
   color:#8d227d;
 }
+.Lovely a p{
+  align-items: center;
+}
 .cards {
   display: inline-block;
   justify-content: flex-start;
@@ -159,9 +162,7 @@ font-size: 1.1em;
   font-weight: bold;
   font-family:initial
 }
-.Pictures {
-align-text: center;
-}
+
 footer {
   background: #cfb0d6;
   color: #815d99;
