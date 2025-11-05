@@ -77,6 +77,9 @@ nav li a {
 nav li a:hover {
   text-decoration: underline;
 }
+.websites{
+  text-align: center;
+}
 .cards {
   display: inline-block;
   justify-content: flex-start;
@@ -115,7 +118,7 @@ nav li a:hover {
 }
 
 .card-front {
-  background-color: #cfb0d6;
+  background-color: #bcd8e7;
   color: #9cb7dd;
   display: flex;
   align-items: center;
@@ -123,12 +126,15 @@ nav li a:hover {
 }
 
 .card-back {
-  background-color: #b89cbe;
-  color: #624768;
+  background-color: #afc8d6;
+  color: #475568;
   transform: rotateY(180deg);
   display: flex;
   align-items: center;
   justify-content: center;
+  font-size: 1em;
+  font-weight: bold;
+  font-family:initial
 }
 footer {
   background: #cfb0d6;
