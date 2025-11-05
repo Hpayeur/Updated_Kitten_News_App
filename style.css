@@ -51,6 +51,7 @@ main p {
   max-width: 1200px;
   margin: 0 auto;
   text-align: center;
+  color:#7e4776;
 }
 nav {
   background: #ecc9af;
@@ -96,9 +97,11 @@ font-family: cursive;
   }
   .websites li p{
 font-size: 1.1em;
+  color:#7e4776;
   }
-.websites a:hover{
-  text-decoration: none;
+.websites a{
+  text-decoration: underline;
+  color:#8d227d;
 }
 .cards {
   display: inline-block;
