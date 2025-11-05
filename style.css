@@ -38,6 +38,20 @@ header h1 {
   font-style: italic;
   font-weight: lighter;
 }
+main h3 {
+  font-size: 1.5em;
+  color: #be69b3;
+  font-weight: bold;
+  font-family: cursive;
+  text-align: center;
+}
+main p {
+  font-size: 1.2em;
+  white-space: wrap;
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
 nav {
   background: #ecc9af;
   padding: 20px;
