@@ -53,6 +53,7 @@ main p {
   text-align: center;
   color:#7e4776;
 }
+
 nav {
   background: #ecc9af;
   padding: 20px;
@@ -102,9 +103,6 @@ font-size: 1.1em;
 .websites a{
   text-decoration: underline;
   color:#8d227d;
-}
-.Lovely a p{
-  align-items: center;
 }
 .cards {
   display: inline-block;
