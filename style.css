@@ -63,3 +63,12 @@ nav li a {
 nav li a:hover {
   text-decoration: underline;
 }
+footer {
+  background: #cfb0d6;
+  color: #815d99;
+  padding: 10px;
+  text-align: center;
+}
+footer a {
+  color: #7b4c9b;
+}
