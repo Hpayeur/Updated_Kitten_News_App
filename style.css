@@ -159,6 +159,9 @@ font-size: 1.1em;
   font-weight: bold;
   font-family:initial
 }
+.Pictures {
+align-text: center;
+}
 footer {
   background: #cfb0d6;
   color: #815d99;
