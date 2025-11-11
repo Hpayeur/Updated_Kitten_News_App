@@ -283,9 +283,9 @@ form input:valid {
   color: #384453;
 }
 .questions fieldset {
-  width: 50%;
   margin: 0 auto;
   border: 2px solid #bfa2c5;
+  max-width: 1600px;
   padding: 5px;
   border-radius: 10px;
 }
@@ -304,8 +304,10 @@ form input:valid {
 button {
     position: absolute;
     left: 50%;
-    top: 35%;
+    top: 50%;
     transform: translate(-50%, -50%); 
+    font-size: 1.2em;
+    padding: 15px 30px;
 }
 
 footer {
