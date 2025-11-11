@@ -188,48 +188,48 @@ font-size: 1.1em;
 }
 .Catfood{
   padding: 5px;
-  font-size: 25px;
   position: relative;
   left: 15%;
-Font-size:1.2em;
+Font-size: 1.1em;
 font-family: cursive;
+font-weight: light;
 }
 
 .Human{
  padding: 5px;
-  font-size: 25px;
   position: relative;
   left: 15%;
-Font-size:1.2em;
+Font-size: 1em;
 font-family: cursive;
+font-weight: light;
 }
 
 .healthy{
  padding: 5px;
-  font-size: 25px;
   position: relative;
   left: 15%;
-Font-size:1.2em;
+Font-size: 1.1em;
 font-family: cursive;
+font-weight: light;
 }
 
 .Toys{
  padding: 5px;
-  font-size: 25px;
   position: relative;
   left: 15%;
-Font-size:1.2em;
+Font-size: 1.1em;
 font-family: cursive;
+font-weight: light;
 }
 
 .Breed {
    padding: 5px;
-  font-size: 25px;
   position: relative;
   left: 15%;
   white-space: wrap;
-Font-size:1.2em;
+Font-size: 1.1em;
 font-family: cursive;
+font-weight: light;
 }
 
 footer {
