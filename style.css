@@ -186,55 +186,81 @@ font-size: 1.1em;
 .sweet section img{
   color:#cfb0d6;
 }
-.Catfood{
-  list-style-type: none;
-  padding: 5px;
-  position: relative;
-  left: 15%;
-Font-size: 1.1em;
+
+h4{
+  Font-size: 1.1em;
 font-family: cursive;
 font-weight: light;
+color: #815d99;
+background-color: #cfb0d6ee;
+  padding: 10px;
+  text-align: center;
+  position: relative;
+}
+
+h5{
+  font-weight: bold;
+  font-size: 1em;
+}
+
+.Catfood{
+  list-style-type: none;
+ white-space: wrap;
+  max-width: 1600px;
+  margin: 0 auto;
+  text-align: center;
+  Font-size: 1.2em;
+font-family: cursive;
+font-weight: light;
+color: #48285e;
 }
 
 .Human{
   list-style-type: none;
- padding: 5px;
-  position: relative;
-  left: 15%;
-Font-size: 1em;
+ white-space: wrap;
+  max-width: 1600px;
+  margin: 0 auto;
+  text-align: center;
+  Font-size: 1.2em;
 font-family: cursive;
 font-weight: light;
+color: #48285e;
 }
 
 .healthy{
   list-style-type: none;
- padding: 5px;
-  position: relative;
-  left: 15%;
-Font-size: 1.1em;
+ white-space: wrap;
+  max-width: 1600px;
+  margin: 0 auto;
+  text-align: center;
+  Font-size: 1.2em;
 font-family: cursive;
 font-weight: light;
+color: #48285e;
 }
 
 .Toys{
   list-style-type: none;
- padding: 5px;
-  position: relative;
-  left: 15%;
-Font-size: 1.1em;
+ white-space: wrap;
+  max-width: 1600px;
+  margin: 0 auto;
+  text-align: center;
+  Font-size: 1.2em;
 font-family: cursive;
 font-weight: light;
+color: #48285e;
 }
 
 .Breed {
   list-style-type: none;
-   padding: 5px;
-  position: relative;
-  left: 15%;
-  white-space: wrap;
-Font-size: 1.1em;
+ white-space: wrap;
+  max-width: 1600px;
+  margin: 0 auto;
+  text-align: center;
+  Font-size: 1.2em;
 font-family: cursive;
 font-weight: light;
+color: #48285e;
 }
 
 footer {
